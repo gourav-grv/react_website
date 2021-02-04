@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fraunces', serif;
+    text-transform: capitalize;
+   
+}
+.div{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.sad{
+    height: 400px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.sad:hover{
+    height: 400px;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+.para{
+    width: 500px;
+}
+.navbar{
+    background-color: transparent !important;
+}
+.navbar-nav{
+    margin-left: auto !important;
+}
+.navbar a:hover{
+    color: rgb(255, 71, 47) !important;
+}
+.active_menu{
+    color: rgb(8, 8, 8) !important;
+    border-bottom: 1px solid black;
+}
+.main_div{
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+}
+.under_div{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.under_div_img{
+    width: 50%;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.sitename{
+    color: rgb(255, 71, 71);
+}
+.para{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.NavLink{
+    text-decoration: none !important;
+    border-radius: 50px !important;
+    padding: 10px !important;
+    transition: 0.9s;   /*Isse Link Pr Effect Halka Sa ruk kr arrha h */
+}
+.animated_img {
+    animation: up-down 0.5s ease-out infinite alternate-reverse both;
+}
+@-webkit-keyframes up-down{
+    0%{
+        transform: translateY(20px);
+    }
+    100%{
+        transform: translateY(-20px);
+    }
+}
+@keyframes up-down{
+    0%{
+        transform: translateY(20px);
+    }
+    100%{
+        transform: translateY(-20px);
+    }
+}
+.card{
+    width: 18rem;
+    margin: 10px;
+}
+.card_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card-img-top{
+    height: 200px;
+}
+.form_div{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
