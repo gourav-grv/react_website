@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5226c152.chunk.css",
+    "main.js": "/static/js/main.4084b3eb.chunk.js",
+    "main.js.map": "/static/js/main.4084b3eb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0102d0d0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0102d0d0.js.map",
+    "static/js/2.c44d7284.chunk.js": "/static/js/2.c44d7284.chunk.js",
+    "static/js/2.c44d7284.chunk.js.map": "/static/js/2.c44d7284.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5226c152.chunk.css.map": "/static/css/main.5226c152.chunk.css.map",
+    "static/js/2.c44d7284.chunk.js.LICENSE.txt": "/static/js/2.c44d7284.chunk.js.LICENSE.txt",
+    "static/media/1494419.a80f792a.jpg": "/static/media/1494419.a80f792a.jpg",
+    "static/media/Cat.dbb9d3a0.jpg": "/static/media/Cat.dbb9d3a0.jpg",
+    "static/media/Helpme.59815182.png": "/static/media/Helpme.59815182.png",
+    "static/media/grv.8432c662.jpg": "/static/media/grv.8432c662.jpg",
+    "static/media/grv2.559342a2.jpg": "/static/media/grv2.559342a2.jpg",
+    "static/media/kiara.e0b145db.jpg": "/static/media/kiara.e0b145db.jpg",
+    "static/media/kiara_advani.e494d8c0.jpg": "/static/media/kiara_advani.e494d8c0.jpg",
+    "static/media/wp1.59e42a1d.jpg": "/static/media/wp1.59e42a1d.jpg",
+    "static/media/wp2.f982f931.jpg": "/static/media/wp2.f982f931.jpg",
+    "static/media/wp3.ed809186.jpg": "/static/media/wp3.ed809186.jpg",
+    "static/media/wp4.b96f3056.jpg": "/static/media/wp4.b96f3056.jpg",
+    "static/media/wp5.0e17adbb.jpg": "/static/media/wp5.0e17adbb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0102d0d0.js",
+    "static/js/2.c44d7284.chunk.js",
+    "static/css/main.5226c152.chunk.css",
+    "static/js/main.4084b3eb.chunk.js"
+  ]
+}
