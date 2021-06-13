@@ -3,7 +3,7 @@ import Home from "./Home.jsx"
 import Contact from "./Contact";
 import Servises from "./Services"
 import About from "./About"
-import { Redirect, Route, Switch } from "react-router";
+import {Route, Switch } from "react-router";
 import Error from "./Error.jsx";
 import Navbar from "./Navbar";
 

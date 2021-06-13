@@ -75,10 +75,10 @@ align-items: center;
 }
 @-webkit-keyframes up-down{
     0%{
-        transform: translateY(20px);
+        transform: translateY(50px);
     }
     100%{
-        transform: translateY(-20px);
+        transform: translateY(-50px);
     }
 }
 @keyframes up-down{
